@@ -1,2 +1,4 @@
 # DevOps
-Projetos da aula de DevOps
+Primeiro exercicio da aula de DevOps
+Função : ALuno
+Faculdade : Impacta

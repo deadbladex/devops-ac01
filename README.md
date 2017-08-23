@@ -8,3 +8,4 @@ Bruno Camargo Zaccariello RA 1700604
 Victor Vinicius Goncalves Barbosa RA 1700642
 Eduardo Moreno Marinho RA 1700158
 Leonardo de Melo Cardoso RA 1700579
+Rodrigo Sena de Oliveira RA 1701596
